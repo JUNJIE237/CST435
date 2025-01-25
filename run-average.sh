@@ -19,5 +19,5 @@ hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
     
 
 # print the output of wordcount
-echo -e "\nwordcount output:"
+echo -e "\nAverage Temperature:"
 hdfs dfs -cat output/part-00000
