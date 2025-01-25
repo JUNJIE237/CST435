@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Move files to the ../config directory
-mv ./reducer.cpp ../config/reducer.mpp
-mv ./mapper.cpp ../config/mapper.mpp
+mv ./reducer.cpp ../config/reducer.cpp
+mv ./mapper.cpp ../config/mapper.cpp
 mv ./run-average.sh ../config/run-average.sh
 mv ./generate.py ../config/generate.py
 
