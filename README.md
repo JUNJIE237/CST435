@@ -1,4 +1,10 @@
 # Hadoop Cluster Docker Setup in Single Machine and Multiple machine、
+This project is extended from https://github.com/kiwenlau/hadoop-cluster-docker.git, a collaborative effort by<br>
+- Angeline Teoh Qee  (159023)
+- Tan Jun Jie  (158253)
+- Then Tai Yu  (159152)
+- Yeo Ying Sheng (157627)
+- Lee Ter Qin  (159389)
 ---
 ### Notes
 You can find built images through 
